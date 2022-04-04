@@ -59,6 +59,57 @@ body {
     margin-left: 20%;
 }
 
+.quadro {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagem {
+    width: 150px;
+    height: 150px;
+    margin-top: 5%;
+}
+
+.letra p{
+    color: #E6005A;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.letra {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cont {
+    width: 76%;
+    margin: 0 auto;
+}
+
+
+
+.d1 {
+    margin-left: 9%;
+    width: 14%;
+    font-size: 22px;
+    
+}
+
+.d2 {
+    margin-left: 50%;
+    width: 15%;
+    font-size: 22px;
+    margin-top: 1%;
+}
+
+.d3 {
+    margin-left: 10%;
+    width: 15%;
+    font-size: 22px;
+}
+
 .footer{
     background-color: #32B9CD;
     color: white;
@@ -75,7 +126,7 @@ body {
     background-color: #E5E5E5;
     color: #E6005A;
     width: 400px;
-    height: 350px;
+    height: 420px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -94,7 +145,7 @@ form {
 }
 
 form label {
-    margin-top: 8px;
+    margin-top: 15px;
 }
 
 form input {
