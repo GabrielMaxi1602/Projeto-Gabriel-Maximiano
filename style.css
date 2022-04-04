@@ -98,14 +98,14 @@ body {
 }
 
 .d2 {
-    margin-left: 50%;
+    margin-left: 22%;
     width: 15%;
     font-size: 22px;
     margin-top: 1%;
 }
 
 .d3 {
-    margin-left: 10%;
+    margin-left: 20%;
     width: 15%;
     font-size: 22px;
 }
@@ -167,4 +167,9 @@ form button {
     border: 0;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.parag {
+    display: flex;
+    text-align: left;
 }
