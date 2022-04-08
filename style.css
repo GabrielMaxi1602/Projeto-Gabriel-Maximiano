@@ -40,6 +40,7 @@ body {
 .banner {
     background-image: url('bg-jelly-fish-para_outras_pags.png');
     background-size: cover;
+    height: 90vh;
 }
 
 .banner .container {
@@ -68,7 +69,7 @@ body {
 
 .imagem {
     width: 150px;
-    height: 150px;
+    height: 40vh;
     margin-top: 5%;
 }
 
@@ -126,7 +127,7 @@ body {
     background-color: #E5E5E5;
     color: #E6005A;
     width: 400px;
-    height: 420px;
+    height: 480px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -141,7 +142,8 @@ form {
     display: flex;
     flex-direction: column;
     margin-top: 24px;
-    width: 250px;
+    width: 270px;
+    height: 50vh;
 }
 
 form label {
@@ -149,7 +151,7 @@ form label {
 }
 
 form input {
-    margin-top: 8px;
+    margin-top: 10px;
     outline: 3px solid #32B9CD;
     border: 0;
     padding: 8px;
@@ -157,7 +159,7 @@ form input {
 }
 
 form button {
-    margin-top: 16px;
+    margin-top: 20px;
     background-color: #E6005A;
     color: white;
     padding: 10px 15px;
